@@ -1,0 +1,13 @@
+.up{
+    background-color: blue;
+    color:white;
+}
+tr:hover{
+    background-color: rgb(190, 188, 188);
+}
+.tengah{
+    font-family: sans-serif;
+}
+.down{
+    font-family: sans-serif;
+}

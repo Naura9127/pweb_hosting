@@ -1,0 +1,36 @@
+.container{
+    background-color: orange;
+}
+.header{
+    color:black
+}
+.main{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: yellow;
+    position: left;
+    flex: 1;
+    margin: 10px;
+    max-width: 1679px;
+    height: 500px;
+    border-radius: 10px;
+}
+.menu{
+    color:black
+}
+.content{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: rgb(255, 253, 250);
+    position: right;
+    flex: 1;
+    margin: 10px;
+    max-width: 1800px;
+    height: 500px;
+    border-radius: 10px;
+}
+.footer{
+    background-color: orange;
+}
